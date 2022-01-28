@@ -1,0 +1,4 @@
+,login,url,type,name,company,location,email,hireable,bio,public_repos,public_gists,followers,following
+0,profmcdan,https://api.github.com/users/profmcdan,User,Daniel Ale,@Prunedge-Dev-Team  @zonetechpark,"Lagos, Nigeria",,True,"I am a Full Stack Engineer (Django/Node/React/React Native), a Machine Learning Enthusiast and a Mentor, currently living in Lagos, Nigeria.",227,2,41,6
+1,lagos-a1,https://api.github.com/users/lagos-a1,User,Andres,University Technology of Sydney ,Sydney ,,,Industrial Engineer with a Master in Information Technology and Data Analytics from the University Technology of Sydney (UTS). Confident user machine learning. ,14,0,0,0
+2,dominicchinedu,https://api.github.com/users/dominicchinedu,User,chinedu Nweke Innocent,,lagos Nigeria,,True,"Logistics/Data Officer at Joza Global Logistics. Master Process Engineering from the university of Lagos. A Data Science, machine learning and AI enthusiast ",1,0,0,0
